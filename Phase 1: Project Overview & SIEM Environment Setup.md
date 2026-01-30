@@ -11,7 +11,7 @@
 ## Project Objective (SplunkSight)
 SplunkSight is a hands-on project focused on learning and demonstrating:
 
-### SIEM Fundamentals
+### 1. SIEM Fundamentals
 This project focuses on understanding how a SIEM works at a practical level, including:
 - How logs are collected, indexed, and stored
 - How searches are written to extract meaningful information
@@ -19,9 +19,8 @@ This project focuses on understanding how a SIEM works at a practical level, inc
 
 The intent is to understand **how Splunk functions as a SIEM**, not just how to click through the UI.
 
----
 
-### Log Ingestion and Analysis
+###  2. Log Ingestion and Analysis
 A core part of this project is working with real logs instead of sample data.
 
 This includes:
@@ -32,9 +31,7 @@ This includes:
 
 
 
----
-
-### Security Visibility Using Real System Logs
+### 3. Security Visibility Using Real System Logs
 Rather than simulated dashboards, the project focuses on gaining visibility from actual system-generated data.
 
 This includes:
@@ -74,3 +71,5 @@ The scope is **security-relevant use cases**.
   - Log ingestion
   - Search and analysis
   - Security-focused use cases in upcoming phases
+  <img width="695" height="705" alt="splunk3" src="https://github.com/user-attachments/assets/2aed21c9-fcb5-476c-8097-56864e98f6b0" />
+
