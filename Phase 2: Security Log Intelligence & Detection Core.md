@@ -82,7 +82,8 @@ After submission, ingestion was verified by running a basic search. i.e. index=m
 - Verified that JSON events are indexed successfully
 - Ensured no ingestion errors were present
 
-<img width="1918" height="962" alt="Splunk10" src="https://github.com/user-attachments/assets/c0acdfed-9f48-4204-b914-8d5622f18d27" />
+<img width="1917" height="972" alt="splunk1" src="https://github.com/user-attachments/assets/d432272e-8ec5-4786-b264-6cd96ff9578b" />
+
 
 
 ---
